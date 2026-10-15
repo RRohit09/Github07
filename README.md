@@ -1,2 +1,2 @@
 # Github07
-I have created a git hub repo
+I have created a git hub repository
